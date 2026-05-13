@@ -23,4 +23,4 @@ Focado em desenvolvimento Front-End e Full Stack.
 ## 📫 Contato
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cassianocortes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-PERFIL-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-PERFIL-AQUI](https://www.linkedin.com/in/cassiano-cortes-b10497262/?skipRedirect=true)
